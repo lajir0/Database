@@ -1,0 +1,38 @@
+1. Identify the entities and their attributes. Show the entities and attributes generated
+by AI tools and manually review them to determine their accuracy.
+2. Construct a data model/ Relational Database model.
+3. Normalize the data model to third normal form (3NF).
+4. Draft a data dictionary.
+
+Assignment Part-B
+A. Create a MySQL file representing your data dictionary from step 4 (Assignment part A).
+Name it <student.ID> definition.SQL.
+B. Prepare another file <student.ID>Tasks.SQL that performs the following tasks:
+1. Write an SQL query to add 10 different devices, including smartphones, laptops,
+tablets, and MP3 players, to the database.
+2. Create an SQL query to insert details of 3 customers, including their names, addresses,
+and phone numbers, into the database. One of the customers should be you.
+3. Write an SQL query to register 6 employees, specifying their names, IDs, dates of
+joining, hourly wages, and roles (technician, receptionist, etc.).
+4. Develop an SQL query to record at least two repair entries for each customer,
+capturing details such as reference number, repair date, and problem description.
+5. Create an SQL query to update the model of the 5th device to a new model (Your
+current mobile phone model).
+6. Write an SQL query to change the phone number of the 3rd customer to your phone
+number.
+7. Develop an SQL query to insert a new customer into the database with your
+instructor's details.
+8. Write an SQL query to show all repairs carried out for the 2nd customer, including
+reference numbers, repair dates, and problem descriptions.
+9. Create an SQL query to retrieve the names of customers who had repairs involving
+"Battery Replacement."
+10. Develop an SQL query that uses JOIN to display customer names along with the total
+count of repairs each customer has had.
+11. Write an SQL query that utilizes JOIN to list all devices repaired for customers (yours
+details).
+12. Develop an SQL query that combines JOIN and sub-query to display the names of
+employees who have completed repairs with a total cost exceeding $50.
+13. Write an SQL query with JOIN to list the names of customers who have never had a
+repair involving "Screen Replacement."
+14. Create an SQL query with a sub-query to identify the most common device type based
+on repair frequency and list all customers who own that type of device.
